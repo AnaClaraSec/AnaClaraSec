@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil!
 
 ---
 
-## 🧑‍💻 **Sobre Mim** 👩‍💻
+##  **Sobre Mim** 👩‍💻
 
 - 💼 **Estagiária** em **Cybersecurity**.  
 - 🎓 Estudo **Engenharia da Computação** na **USJT** e **Gestão de TI** na **PUC**.  
