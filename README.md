@@ -13,14 +13,14 @@ Bem-vindo ao meu perfil!
 - 🚀 Atualmente, estou mergulhando no estudo de **segurança em redes** e **Cloud**.  
 - 🎯 **Meta do ano**: **Obter a Certificação CompTIA** e expandir meu conhecimento em **Cybersecurity**.
 
-## 🛠️ **Projetos em Destaque** 🌐
+## 🛠️ **Projetos em Destaque** 
 
 ### 🏠 [**Home Cybersec Monitoring**](https://github.com/AnaClaraSec/home-cybersec-monitoring)
 **Meu primeiro projeto de redes**, focado em **monitoramento de segurança cibernética** em ambientes domésticos. 
 
 ---
 
-## 🌱 **Tecnologias que estou estudando** 🌱
+## 🌱 **Tecnologias que estou estudando** 
 
 - **Redes de Computadores**: Buscando entender as melhores práticas de segurança e protocolos de redes.
 - **Cloud Security**: Estudo das principais soluções de segurança em ambientes de nuvem, como AWS, Azure e Google Cloud.
@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil!
 
 ---
 
-## 🔗 **Conecte-se comigo!** 🔗
+## 🔗 **Conecte-se comigo!** 
 
 - 💌 [**LinkedIn**](https://www.linkedin.com/in/anaclarasanfer/)
 
